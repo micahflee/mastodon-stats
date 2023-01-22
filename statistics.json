@@ -1,0 +1,488 @@
+[
+    {
+        "period": "2022-09-30T00:00:00.000+00:00",
+        "server_count": "2829",
+        "user_count": "3605039",
+        "active_user_count": "470403"
+    },
+    {
+        "period": "2022-10-01T00:00:00.000+00:00",
+        "server_count": "2830",
+        "user_count": "3605684",
+        "active_user_count": "470799"
+    },
+    {
+        "period": "2022-10-02T00:00:00.000+00:00",
+        "server_count": "2822",
+        "user_count": "3607107",
+        "active_user_count": "470914"
+    },
+    {
+        "period": "2022-10-03T00:00:00.000+00:00",
+        "server_count": "2825",
+        "user_count": "3608231",
+        "active_user_count": "397138"
+    },
+    {
+        "period": "2022-10-04T00:00:00.000+00:00",
+        "server_count": "2817",
+        "user_count": "3609492",
+        "active_user_count": "397392"
+    },
+    {
+        "period": "2022-10-05T00:00:00.000+00:00",
+        "server_count": "2826",
+        "user_count": "3555038",
+        "active_user_count": "400142"
+    },
+    {
+        "period": "2022-10-06T00:00:00.000+00:00",
+        "server_count": "2821",
+        "user_count": "3558111",
+        "active_user_count": "403908"
+    },
+    {
+        "period": "2022-10-07T00:00:00.000+00:00",
+        "server_count": "2833",
+        "user_count": "3607938",
+        "active_user_count": "405108"
+    },
+    {
+        "period": "2022-10-08T00:00:00.000+00:00",
+        "server_count": "2824",
+        "user_count": "3608413",
+        "active_user_count": "406435"
+    },
+    {
+        "period": "2022-10-09T00:00:00.000+00:00",
+        "server_count": "2843",
+        "user_count": "3606890",
+        "active_user_count": "406757"
+    },
+    {
+        "period": "2022-10-10T00:00:00.000+00:00",
+        "server_count": "2842",
+        "user_count": "3609407",
+        "active_user_count": "360412"
+    },
+    {
+        "period": "2022-10-11T00:00:00.000+00:00",
+        "server_count": "2860",
+        "user_count": "3611764",
+        "active_user_count": "362067"
+    },
+    {
+        "period": "2022-10-12T00:00:00.000+00:00",
+        "server_count": "2862",
+        "user_count": "3616698",
+        "active_user_count": "364588"
+    },
+    {
+        "period": "2022-10-13T00:00:00.000+00:00",
+        "server_count": "2861",
+        "user_count": "3618085",
+        "active_user_count": "365401"
+    },
+    {
+        "period": "2022-10-14T00:00:00.000+00:00",
+        "server_count": "2855",
+        "user_count": "3572286",
+        "active_user_count": "367020"
+    },
+    {
+        "period": "2022-10-15T00:00:00.000+00:00",
+        "server_count": "2853",
+        "user_count": "3573878",
+        "active_user_count": "368486"
+    },
+    {
+        "period": "2022-10-16T00:00:00.000+00:00",
+        "server_count": "2858",
+        "user_count": "3575381",
+        "active_user_count": "368290"
+    },
+    {
+        "period": "2022-10-17T00:00:00.000+00:00",
+        "server_count": "2869",
+        "user_count": "3575376",
+        "active_user_count": "356682"
+    },
+    {
+        "period": "2022-10-18T00:00:00.000+00:00",
+        "server_count": "2864",
+        "user_count": "3576825",
+        "active_user_count": "356818"
+    },
+    {
+        "period": "2022-10-19T00:00:00.000+00:00",
+        "server_count": "2870",
+        "user_count": "3578645",
+        "active_user_count": "358009"
+    },
+    {
+        "period": "2022-10-20T00:00:00.000+00:00",
+        "server_count": "2866",
+        "user_count": "3580505",
+        "active_user_count": "359022"
+    },
+    {
+        "period": "2022-10-21T00:00:00.000+00:00",
+        "server_count": "2860",
+        "user_count": "3582208",
+        "active_user_count": "359882"
+    },
+    {
+        "period": "2022-10-22T00:00:00.000+00:00",
+        "server_count": "2854",
+        "user_count": "3584600",
+        "active_user_count": "361864"
+    },
+    {
+        "period": "2022-10-23T00:00:00.000+00:00",
+        "server_count": "2859",
+        "user_count": "3586608",
+        "active_user_count": "366395"
+    },
+    {
+        "period": "2022-10-24T00:00:00.000+00:00",
+        "server_count": "2853",
+        "user_count": "3589552",
+        "active_user_count": "360244"
+    },
+    {
+        "period": "2022-10-25T00:00:00.000+00:00",
+        "server_count": "2862",
+        "user_count": "3591245",
+        "active_user_count": "361397"
+    },
+    {
+        "period": "2022-10-26T00:00:00.000+00:00",
+        "server_count": "2862",
+        "user_count": "3594472",
+        "active_user_count": "364871"
+    },
+    {
+        "period": "2022-10-27T00:00:00.000+00:00",
+        "server_count": "2874",
+        "user_count": "3598722",
+        "active_user_count": "370360"
+    },
+    {
+        "period": "2022-10-28T00:00:00.000+00:00",
+        "server_count": "2877",
+        "user_count": "3606754",
+        "active_user_count": "381167"
+    },
+    {
+        "period": "2022-10-29T00:00:00.000+00:00",
+        "server_count": "2962",
+        "user_count": "3656265",
+        "active_user_count": "452016"
+    },
+    {
+        "period": "2022-10-30T00:00:00.000+00:00",
+        "server_count": "2963",
+        "user_count": "3690437",
+        "active_user_count": "496010"
+    },
+    {
+        "period": "2022-10-31T00:00:00.000+00:00",
+        "server_count": "3088",
+        "user_count": "3723223",
+        "active_user_count": "528916"
+    },
+    {
+        "period": "2022-11-01T00:00:00.000+00:00",
+        "server_count": "3088",
+        "user_count": "3761979",
+        "active_user_count": "572392"
+    },
+    {
+        "period": "2022-11-02T00:00:00.000+00:00",
+        "server_count": "3311",
+        "user_count": "3798152",
+        "active_user_count": "608837"
+    },
+    {
+        "period": "2022-11-03T00:00:00.000+00:00",
+        "server_count": "3308",
+        "user_count": "3833368",
+        "active_user_count": "655376"
+    },
+    {
+        "period": "2022-11-04T00:00:00.000+00:00",
+        "server_count": "3311",
+        "user_count": "3812125",
+        "active_user_count": "683363"
+    },
+    {
+        "period": "2022-11-05T00:00:00.000+00:00",
+        "server_count": "3549",
+        "user_count": "3870983",
+        "active_user_count": "740722"
+    },
+    {
+        "period": "2022-11-06T00:00:00.000+00:00",
+        "server_count": "3550",
+        "user_count": "3970007",
+        "active_user_count": "863096"
+    },
+    {
+        "period": "2022-11-07T00:00:00.000+00:00",
+        "server_count": "4053",
+        "user_count": "4105507",
+        "active_user_count": "1044405"
+    },
+    {
+        "period": "2022-11-08T00:00:00.000+00:00",
+        "server_count": "4023",
+        "user_count": "4239565",
+        "active_user_count": "1194896"
+    },
+    {
+        "period": "2022-11-09T00:00:00.000+00:00",
+        "server_count": "4631",
+        "user_count": "4367254",
+        "active_user_count": "1325550"
+    },
+    {
+        "period": "2022-11-10T00:00:00.000+00:00",
+        "server_count": "4609",
+        "user_count": "4455121",
+        "active_user_count": "1460507"
+    },
+    {
+        "period": "2022-11-11T00:00:00.000+00:00",
+        "server_count": "5228",
+        "user_count": "4530762",
+        "active_user_count": "1543628"
+    },
+    {
+        "period": "2022-11-12T00:00:00.000+00:00",
+        "server_count": "5197",
+        "user_count": "4613240",
+        "active_user_count": "1638202"
+    },
+    {
+        "period": "2022-11-13T00:00:00.000+00:00",
+        "server_count": "5703",
+        "user_count": "4681940",
+        "active_user_count": "1719592"
+    },
+    {
+        "period": "2022-11-14T00:00:00.000+00:00",
+        "server_count": "5697",
+        "user_count": "4747221",
+        "active_user_count": "1785710"
+    },
+    {
+        "period": "2022-11-15T00:00:00.000+00:00",
+        "server_count": "6104",
+        "user_count": "4794235",
+        "active_user_count": "1835815"
+    },
+    {
+        "period": "2022-11-16T00:00:00.000+00:00",
+        "server_count": "6079",
+        "user_count": "4842593",
+        "active_user_count": "1850396"
+    },
+    {
+        "period": "2022-11-17T00:00:00.000+00:00",
+        "server_count": "6037",
+        "user_count": "4881134",
+        "active_user_count": "1920151"
+    },
+    {
+        "period": "2022-11-18T00:00:00.000+00:00",
+        "server_count": "6020",
+        "user_count": "4938856",
+        "active_user_count": "1958366"
+    },
+    {
+        "period": "2022-11-19T00:00:00.000+00:00",
+        "server_count": "6002",
+        "user_count": "4932736",
+        "active_user_count": "2223817"
+    },
+    {
+        "period": "2022-11-20T00:00:00.000+00:00",
+        "server_count": "7138",
+        "user_count": "5045034",
+        "active_user_count": "2321529"
+    },
+    {
+        "period": "2022-11-21T00:00:00.000+00:00",
+        "server_count": "7119",
+        "user_count": "5144773",
+        "active_user_count": "2446507"
+    },
+    {
+        "period": "2022-11-22T00:00:00.000+00:00",
+        "server_count": "7690",
+        "user_count": "5206070",
+        "active_user_count": "2475160"
+    },
+    {
+        "period": "2022-11-23T00:00:00.000+00:00",
+        "server_count": "7649",
+        "user_count": "5249225",
+        "active_user_count": "2527469"
+    },
+    {
+        "period": "2022-11-24T00:00:00.000+00:00",
+        "server_count": "8012",
+        "user_count": "5282884",
+        "active_user_count": "2565903"
+    },
+    {
+        "period": "2022-11-25T00:00:00.000+00:00",
+        "server_count": "7971",
+        "user_count": "5302409",
+        "active_user_count": "2578012"
+    },
+    {
+        "period": "2022-11-26T00:00:00.000+00:00",
+        "server_count": "8198",
+        "user_count": "5323579",
+        "active_user_count": "2598376"
+    },
+    {
+        "period": "2022-11-27T00:00:00.000+00:00",
+        "server_count": "8174",
+        "user_count": "5339334",
+        "active_user_count": "2608633"
+    },
+    {
+        "period": "2022-11-28T00:00:00.000+00:00",
+        "server_count": "8378",
+        "user_count": "5361009",
+        "active_user_count": "2589664"
+    },
+    {
+        "period": "2022-11-29T00:00:00.000+00:00",
+        "server_count": "8322",
+        "user_count": "5376919",
+        "active_user_count": "2613876"
+    },
+    {
+        "period": "2022-11-30T00:00:00.000+00:00",
+        "server_count": "8496",
+        "user_count": "5387503",
+        "active_user_count": "2624121"
+    },
+    {
+        "period": "2022-12-01T00:00:00.000+00:00",
+        "server_count": "8451",
+        "user_count": "5401399",
+        "active_user_count": "2617550"
+    },
+    {
+        "period": "2022-12-02T00:00:00.000+00:00",
+        "server_count": "8401",
+        "user_count": "5387146",
+        "active_user_count": "2527166"
+    },
+    {
+        "period": "2022-12-03T00:00:00.000+00:00",
+        "server_count": "8666",
+        "user_count": "5404186",
+        "active_user_count": "2536166"
+    },
+    {
+        "period": "2022-12-04T00:00:00.000+00:00",
+        "server_count": "8606",
+        "user_count": "5412393",
+        "active_user_count": "2524632"
+    },
+    {
+        "period": "2022-12-05T00:00:00.000+00:00",
+        "server_count": "8751",
+        "user_count": "5421536",
+        "active_user_count": "2478291"
+    },
+    {
+        "period": "2022-12-06T00:00:00.000+00:00",
+        "server_count": "8678",
+        "user_count": "5423031",
+        "active_user_count": "2424002"
+    },
+    {
+        "period": "2022-12-09T00:00:00.000+00:00",
+        "server_count": "8633",
+        "user_count": "5446000",
+        "active_user_count": "2278703"
+    },
+    {
+        "period": "2022-12-09T00:00:00.000+00:00",
+        "server_count": "8633",
+        "user_count": "5446000",
+        "active_user_count": "2278703"
+    },
+    {
+        "period": "2022-12-10T00:00:00.000+00:00",
+        "server_count": "8601",
+        "user_count": "5459676",
+        "active_user_count": "2244654"
+    },
+    {
+        "period": "2022-12-11T00:00:00.000+00:00",
+        "server_count": "8831",
+        "user_count": "5465362",
+        "active_user_count": "2222843"
+    },
+    {
+        "period": "2022-12-12T00:00:00.000+00:00",
+        "server_count": "8805",
+        "user_count": "5474864",
+        "active_user_count": "2163975"
+    },
+    {
+        "period": "2022-12-13T00:00:00.000+00:00",
+        "server_count": "8832",
+        "user_count": "5489594",
+        "active_user_count": "2156463"
+    },
+    {
+        "period": "2022-12-14T00:00:00.000+00:00",
+        "server_count": "8823",
+        "user_count": "5499419",
+        "active_user_count": "2131380"
+    },
+    {
+        "period": "2022-12-15T00:00:00.000+00:00",
+        "server_count": "8774",
+        "user_count": "5513782",
+        "active_user_count": "2085437"
+    },
+    {
+        "period": "2022-12-16T00:00:00.000+00:00",
+        "server_count": "8781",
+        "user_count": "5522707",
+        "active_user_count": "2081843"
+    },
+    {
+        "period": "2022-12-17T00:00:00.000+00:00",
+        "server_count": "8749",
+        "user_count": "5614698",
+        "active_user_count": "2009012"
+    },
+    {
+        "period": "2022-12-18T00:00:00.000+00:00",
+        "server_count": "9112",
+        "user_count": "5651256",
+        "active_user_count": "1976928"
+    },
+    {
+        "period": "2022-12-19T00:00:00.000+00:00",
+        "server_count": "9101",
+        "user_count": "5677157",
+        "active_user_count": "1937158"
+    },
+    {
+        "period": "2022-12-20T00:00:00.000+00:00",
+        "server_count": "9059",
+        "user_count": "5719461",
+        "active_user_count": "1944728"
+    }
+]
