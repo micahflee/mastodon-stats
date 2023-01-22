@@ -31,8 +31,8 @@ def main():
     for day in data:
         dates.append(day["period"][0:10])
         server_counts.append(int(day["server_count"]))
-        user_counts.append(int(day["user_count"]))
-        active_user_counts.append(int(day["active_user_count"]))
+        user_counts.append(int(float(day["user_count"])))
+        active_user_counts.append(int(float(day["active_user_count"])))
 
     # Ignore the last day
     dates = dates[:-1]
